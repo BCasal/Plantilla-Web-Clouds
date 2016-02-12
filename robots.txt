@@ -2,6 +2,6 @@
 
 ### Permitir acceso
 User-agent: *
-
+  
 ### Denegar acceso
 # Disallow:

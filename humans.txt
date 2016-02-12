@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM 
+# TEAM
 
   Picateclas: BCasal
   Site: www.bcasal.es - bcasal@bcasal.es - www.bcasal.es/contacto
@@ -25,5 +25,5 @@
   Standards: HTML5, CSS3, JS
   Components: Normalize, Boilerplate, Fontello, GoogleFonts.
   Software: BunsenLabs, Atom, Git.
-  
+
   Source: https://github.com/BCasal/Plantilla-Web-Clouds
