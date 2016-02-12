@@ -5,7 +5,7 @@ footer anclado y una página de contacto con formulario.
 
 ***HTML5 & CSS3 Responsive Design (Mobile First)***
 
-![](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/screenshot.png)
+![](github.com/BCasal/Plantilla-Web-Clouds/blob/master/screenshot.png)
 
 ## Carácteristicas
 
@@ -15,18 +15,18 @@ El menú de navegación aparece escalonado desde abajo, los botones interactúan
 con el ratón cambiando de tamaño, y el fondo está en movimiento infinito.
 
 Utilizando como base la plantilla de
-[proyecto web standard](//github.com/BCasal/Proyecto-Web-Standard)
+[proyecto web standard](github.com/BCasal/Proyecto-Web-Standard)
 se compone de
 
-* [Boilerplate v5.3.0](//html5boilerplate.com)
-* [Normalize v3.0.3](//necolas.github.io/normalize.css)
-* [IconFonts Fontello](//fontello.com)
-* Diseño inspirado en [Aerial](//html5up.net/aerial)
-* Imágen de [Pixabay](//pixabay.com)
+* [Boilerplate v5.3.0](html5boilerplate.com)
+* [Normalize v3.0.3](necolas.github.io/normalize.css)
+* [IconFonts Fontello](fontello.com)
+* Diseño inspirado en [Aerial](html5up.net/aerial)
+* Imágen de [Pixabay](pixabay.com)
 
 **Un gran agradecimiento a [aj n33](//github.com/n33) por la inspiración**.
-***Aerial*** está creada por [aj n33](//github.com/n33)
-para [HTML5UP](//html5up.net)
+***Aerial*** está creada por [aj n33](github.com/n33)
+para [HTML5UP](html5up.net)
 bajo licencia **CC Attribution 3.0**.
 
-Plantilla creada por [BCasal](//bcasal.es) bajo licencia MIT
+Plantilla creada por [BCasal](bcasal.es) bajo licencia MIT
