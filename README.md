@@ -5,6 +5,8 @@ footer anclado y una página de contacto con formulario.
 
 ***HTML5 & CSS3 Responsive Design (Mobile First)***
 
+![](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/screenshot.png)
+
 ## Carácteristicas
 
 Layout del proyecto diseñado con FlexBox (Flexible Box Layout Module)
@@ -23,7 +25,6 @@ compuesta de:
 * Imágen de [Pixabay](//pixabay.com)
 
 Un gran agradecimiento a [aj n33](//github.com/n33) por la inspiración.
-
 Aerial está creada por [aj n33](//github.com/n33)
 para [HTML5UP](//html5up.net)
 bajo licencia CC Attribution 3.0.
