@@ -11,7 +11,7 @@
 
 # THANKS
 
-  <name>
+  AJ n33 -- Inspiration -- @n33co
 
 
 # SITE
@@ -23,5 +23,7 @@
 # TECHNOLOGY COLOPHON
 
   Standards: HTML5, CSS3, JS
-  Components: Normalize, Boilerplate.
+  Components: Normalize, Boilerplate, Fontello, GoogleFonts.
   Software: BunsenLabs, Atom, Git.
+  
+  Source: https://github.com/BCasal/Plantilla-Web-Clouds
