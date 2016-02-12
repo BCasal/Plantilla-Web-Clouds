@@ -1,0 +1,6 @@
+# GNU/Linux
+.*
+!.gitignore
+!.htaccess
+*~
+
