@@ -48,60 +48,62 @@ SOFTWARE.
 
 ### Boilerplate
 
-  Copyright (c) HTML5 Boilerplate
+Copyright (c) HTML5 Boilerplate
 
-  Authors:
-    - Mathias Bynens - @mathias
-    - Hans Christian Reinl - @drublic
-    - Cătălin Mariș - @alrra
-    - Nicolas Gallagher - @necolas
-    - Paul Irish - @paul_irish
-    - Divya Manian - @divya
+Authors:
+  - Mathias Bynens        - Twitter   (@mathias)
+  - Hans Christian Reinl  - Twitter   (@drublic)
+  - Cătălin Mariș         - Twitter   (@alrra)
+  - Nicolas Gallagher     - Twitter   (@necolas)
+  - Paul Irish            - Twitter   (@paul_irish)
+  - Divya Manian          - Twitter   (@divya)
 
-  License:  The MIT License (https://opensource.org/licenses/MIT)
-  Homepage: https://html5boilerplate.com
+License:  The MIT License (https://opensource.org/licenses/MIT)
+
+Homepage: https://html5boilerplate.com
 
 
 ### Normalize
 
-  Copyright (c) Nicolas Gallagher and Jonathan Neal
+Copyright (c) Nicolas Gallagher and Jonathan Neal
 
-  Authors:
-    - Nicolas Gallagher - @necolas
-    - Jonathan Neal - @jon_neal
+Authors:
+  - Nicolas Gallagher - Twitter   (@necolas)
+  - Jonathan Neal     - Twitter   (@jon_neal)
 
-  License:  The MIT License (https://opensource.org/licenses/MIT)
-  Homepage: http://necolas.github.io/normalize.css
+License:  The MIT License (https://opensource.org/licenses/MIT)
+
+Homepage: http://necolas.github.io/normalize.css
 
 
 ### Fontello
 
-  Copyright (C) 2011 by Vitaly Puzrin
+Copyright (C) 2011 by Vitaly Puzrin
 
-  Authors:
-    - Roman Shmelev (shmelev) on Github
-    - Vitaly Puzrin (puzrin) on Github
-    - Aleksey Zapparov (ixti) on Github
-    - Evgeny Shkuropat (shkuropat) on Github
-    - Vladimir Zapparov (dervus) on Github
-  License:  The MIT License (https://opensource.org/licenses/MIT)
-  Homepage: http://fontello.com
+Authors:
+  - Roman Shmelev     - GitHub    (shmelev)
+  - Vitaly Puzrin     - GitHub    (puzrin)
+  - Aleksey Zapparov  - GitHub    (ixti)
+  - Evgeny Shkuropat  - GitHub    (shkuropat)
+  - Vladimir Zapparov - GitHub    (dervus)
+License:  The MIT License (https://opensource.org/licenses/MIT)
+Homepage: http://fontello.com
 
 #### Font license info
 
-  Fontelico
+Fontelico
 
-    Copyright (C) 2012 by Fontello project
+  Copyright (C) 2012 by Fontello project
 
-    Author:    Crowdsourced, for Fontello project
-    License:   SIL (http://scripts.sil.org/OFL)
-    Homepage:  http://fontello.com
+  Author:    Crowdsourced, for Fontello project
+  License:   SIL (http://scripts.sil.org/OFL)
+  Homepage:  http://fontello.com
 
 
-  Entypo
+Entypo
 
-    Copyright (C) 2012 by Daniel Bruce
+  Copyright (C) 2012 by Daniel Bruce
 
-    Author:    Daniel Bruce
-    License:   SIL (http://scripts.sil.org/OFL)
-    Homepage:  http://www.entypo.com
+  Author:    Daniel Bruce
+  License:   SIL (http://scripts.sil.org/OFL)
+  Homepage:  http://www.entypo.com
