@@ -76,4 +76,4 @@ Normalize y Fontello.
 ## Licencia
 
 Plantilla creada por [Bcasal](http://bcasal.es)
-bajo [Licencia MIT](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/LICENSE.md).
+bajo [Licencia MIT](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/LICENSE).
