@@ -3,27 +3,57 @@
 
 # TEAM
 
-  Picateclas: BCasal
-  Site: www.bcasal.es - bcasal@bcasal.es - www.bcasal.es/contacto
-  Twitter: @BCasalTweet
-  Location: Alicante, Spain.
+  Picateclas:   BCasal
+  Web:          http://bcasal.es
+  Contact:      bcasal@bcasal.es - http://bcasal.es/contacto
+  Twitter:      @BCasalTweet
+  Location:     Alicante, Spain.
+
+
+# SITE
+
+  Admin:        BCasal
+  Last update:  YYYY/MM/DD
 
 
 # THANKS
 
   AJ n33 -- Inspiration -- @n33co
 
+  Team Boilerplate
 
-# SITE
+    Authors:
+      - Mathias Bynens        - Twitter   (@mathias)
+      - Hans Christian Reinl  - Twitter   (@drublic)
+      - Cătălin Mariș         - Twitter   (@alrra)
+      - Nicolas Gallagher     - Twitter   (@necolas)
+      - Paul Irish            - Twitter   (@paul_irish)
+      - Divya Manian          - Twitter   (@divya)
 
-  Last update: 2016/02/12
+    Homepage: https://html5boilerplate.com
 
+  Team Normalize
+
+    Authors:
+      - Nicolas Gallagher - Twitter   (@necolas)
+      - Jonathan Neal     - Twitter   (@jon_neal)
+
+    Homepage: http://necolas.github.io/normalize.css
+
+  Team Fontello
+
+    Authors:
+      - Roman Shmelev     - GitHub    (shmelev)
+      - Vitaly Puzrin     - GitHub    (puzrin)
+      - Aleksey Zapparov  - GitHub    (ixti)
+      - Evgeny Shkuropat  - GitHub    (shkuropat)
+      - Vladimir Zapparov - GitHub    (dervus)
+
+    Homepage: http://fontello.com
 
 
 # TECHNOLOGY COLOPHON
 
   Standards: HTML5, CSS3
   Components: Normalize, Boilerplate, Fontello, GoogleFonts.
-  Software: BunsenLabs, Atom, Git.
-
-  Source: https://github.com/BCasal/Plantilla-Web-Clouds
+  Software: BunsenLabs, Atom, Git, GitHub
