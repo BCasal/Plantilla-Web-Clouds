@@ -7,7 +7,7 @@ footer anclado y una página de contacto con formulario.
 
 ***HTML5 & CSS3 Responsive Design (Mobile First)***
 
-![](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/screenshot.png)
+![Captura de pantalla](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/screenshot.png "Captura de Clouds")
 
 ## Carácteristicas
 
