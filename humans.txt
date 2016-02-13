@@ -18,9 +18,9 @@
 
 # THANKS
 
-  AJ n33 -- Inspiration -- @n33co
+  ## AJ n33 -- Inspiration -- @n33co
 
-  Team Boilerplate
+  ## Team Boilerplate
 
     Authors:
       - Mathias Bynens        - Twitter   (@mathias)
@@ -32,7 +32,7 @@
 
     Homepage: https://html5boilerplate.com
 
-  Team Normalize
+  ## Team Normalize
 
     Authors:
       - Nicolas Gallagher - Twitter   (@necolas)
@@ -40,7 +40,7 @@
 
     Homepage: http://necolas.github.io/normalize.css
 
-  Team Fontello
+  ## Team Fontello
 
     Authors:
       - Roman Shmelev     - GitHub    (shmelev)
