@@ -1,0 +1,107 @@
+# License
+
+The MIT License (MIT)
+
+Copyright (c) 2016 BCasal
+
+## ES
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y archivos de documentación asociados (el "Software"), para hacer frente
+el Software sin restricciones, incluyendo, sin limitación, los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del Software, y permitir a las personas a las que el Software es
+suministra a hacerlo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas
+copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", sin garantía de ningún tipo, expresa o
+Implícita, incluyendo pero no limitado a las garantías de comerciabilidad,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO U OTRA
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO,
+DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+
+## EN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Components license info
+
+### Boilerplate
+
+  Copyright (c) HTML5 Boilerplate
+
+  Authors:
+    - Mathias Bynens - @mathias
+    - Hans Christian Reinl - @drublic
+    - Cătălin Mariș - @alrra
+    - Nicolas Gallagher - @necolas
+    - Paul Irish - @paul_irish
+    - Divya Manian - @divya
+
+  License:  The MIT License (https://opensource.org/licenses/MIT)
+  Homepage: https://html5boilerplate.com
+
+
+### Normalize
+
+  Copyright (c) Nicolas Gallagher and Jonathan Neal
+
+  Authors:
+    - Nicolas Gallagher - @necolas
+    - Jonathan Neal - @jon_neal
+
+  License:  The MIT License (https://opensource.org/licenses/MIT)
+  Homepage: http://necolas.github.io/normalize.css
+
+
+### Fontello
+
+  Copyright (C) 2011 by Vitaly Puzrin
+
+  Authors:
+    - Roman Shmelev (shmelev) on Github
+    - Vitaly Puzrin (puzrin) on Github
+    - Aleksey Zapparov (ixti) on Github
+    - Evgeny Shkuropat (shkuropat) on Github
+    - Vladimir Zapparov (dervus) on Github
+  License:  The MIT License (https://opensource.org/licenses/MIT)
+  Homepage: http://fontello.com
+
+#### Font license info
+
+  Fontelico
+
+    Copyright (C) 2012 by Fontello project
+
+    Author:    Crowdsourced, for Fontello project
+    License:   SIL (http://scripts.sil.org/OFL)
+    Homepage:  http://fontello.com
+
+
+  Entypo
+
+    Copyright (C) 2012 by Daniel Bruce
+
+    Author:    Daniel Bruce
+    License:   SIL (http://scripts.sil.org/OFL)
+    Homepage:  http://www.entypo.com
