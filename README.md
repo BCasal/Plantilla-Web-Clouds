@@ -28,44 +28,44 @@ la plantilla está compuesta de:
 
 ### **Boilerplate v5.3.0**
 
-  * Copyright (c) HTML5 Boilerplate
-  * [Licencia](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
-  * [WebSite](https://html5boilerplate.com/)
-  * [GitHub](https://github.com/h5bp/html5-boilerplate)
-  * [Docs](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md)
-  * [Twitter](https://twitter.com/h5bp)
-  * Authors:
-		- [Mathias Bynens](@mathias)
-    - [Hans Christian Reinl](@drublic)
-    - [Cătălin Mariș](@alrra)
-    - [Nicolas Gallagher](@necolas)
-    - [Paul Irish](@paul_irish)
-    - [Divya Manian](@divya)
+* Copyright (c) HTML5 Boilerplate
+* [Licencia](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
+* [WebSite](https://html5boilerplate.com/)
+* [GitHub](https://github.com/h5bp/html5-boilerplate)
+* [Docs](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md)
+* [Twitter](https://twitter.com/h5bp)
+* Authors:
+  - [Mathias Bynens](@mathias)
+  - [Hans Christian Reinl](@drublic)
+  - [Cătălin Mariș](@alrra)
+  - [Nicolas Gallagher](@necolas)
+  - [Paul Irish](@paul_irish)
+  - [Divya Manian](@divya)
 
 ### **Normalize v3.0.3**
 
-  * Copyright (c) Nicolas Gallagher and Jonathan Neal
-  * [Licencia](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
-  * [WebSite](http://necolas.github.io/normalize.css)
-  * [GitHub](https://github.com/necolas/normalize.css)
-  * [Docs](http://nicolasgallagher.com/about-normalize-css)
-  * Authors:
-    - [Nicolas Gallagher](@necolas)
-    - [Jonathan Neal](@jon_neal)
+* Copyright (c) Nicolas Gallagher and Jonathan Neal
+* [Licencia](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+* [WebSite](http://necolas.github.io/normalize.css)
+* [GitHub](https://github.com/necolas/normalize.css)
+* [Docs](http://nicolasgallagher.com/about-normalize-css)
+* Authors:
+  - [Nicolas Gallagher](@necolas)
+  - [Jonathan Neal](@jon_neal)
 
 ### **Fontello IconFonts**
 
-  * Copyright (C) 2011 by Vitaly Puzrin
-  * [Licencia](https://github.com/fontello/fontello/blob/master/LICENSE)
-  * [WebSite](http://fontello.com/)
-  * [GitHub](https://github.com/fontello/fontello)
-  * [Docs](https://github.com/fontello/fontello/wiki/Help)
-  * Authors:
-    - [Roman Shmelev](https://github.com/shmelev)
-    - [Vitaly Puzrin](https://twitter.com/puzrin)
-    - [Aleksey Zapparov](https://twitter.com/zapparov)
-    - [Evgeny Shkuropat](https://github.com/shkuropat)
-    - [Vladimir Zapparov](https://github.com/dervus)
+* Copyright (C) 2011 by Vitaly Puzrin
+* [Licencia](https://github.com/fontello/fontello/blob/master/LICENSE)
+* [WebSite](http://fontello.com/)
+* [GitHub](https://github.com/fontello/fontello)
+* [Docs](https://github.com/fontello/fontello/wiki/Help)
+* Authors:
+  - [Roman Shmelev](https://github.com/shmelev)
+  - [Vitaly Puzrin](https://twitter.com/puzrin)
+  - [Aleksey Zapparov](https://twitter.com/zapparov)
+  - [Evgeny Shkuropat](https://github.com/shkuropat)
+  - [Vladimir Zapparov](https://github.com/dervus)
 
 ## Agradecimientos
 
