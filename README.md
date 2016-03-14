@@ -80,5 +80,5 @@ y a **todos los miembros** de los equipos de los equipos de desarrrollo de
 
 ## Licencia
 
-Plantilla creada por [Bcasal](http://bcasal.es)
+Plantilla creada por [BCasal](http://bcasal.es)
 bajo [Licencia MIT](https://github.com/BCasal/Plantilla-Web-Clouds/blob/master/LICENSE).
