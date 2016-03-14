@@ -76,7 +76,7 @@ la plantilla está compuesta de:
 y a **todos los miembros** de los equipos de los equipos de desarrrollo de
 [Boilerplate](https://html5boilerplate.com),
 [Normalize](http://necolas.github.io/normalize.css) y
-[Modernizr](https://modernizr.com).
+[Fontello](http://fontello.com).
 
 ## Licencia
 
